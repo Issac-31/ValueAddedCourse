@@ -1,2 +1,2 @@
-# This is a practice file
-# It helps a lot
+This is a practice file
+It helps a lot
